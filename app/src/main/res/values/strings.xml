@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="appbar_scrolling_view_behavior">WebView</string>
+</resources>
